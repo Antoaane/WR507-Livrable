@@ -7,3 +7,11 @@
 * {
     @apply font-lexend text-dark;
 }
+
+.bg {
+    @apply bg-beige;
+}
+
+.container {
+    @apply mx-auto;
+}
